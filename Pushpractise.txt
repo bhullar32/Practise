@@ -1,1 +1,2 @@
 This file is created to practise push req from local repo to hithub
+New branch is created in github
